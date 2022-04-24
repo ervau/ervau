@@ -1,7 +1,7 @@
 <h1 align="left">hi i'm erva 🙌 </h1>
 
 
-- i'm a bioinformatics master's student
+- a bioinformatics master's student
 - interested in many different fields from machine learning to web development.
 - currently aiming to learn ux design principles/tools, html, css and javascript.
 - please feel free to get in touch with me! **ervaulsy@gmail.com**
